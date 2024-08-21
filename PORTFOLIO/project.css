@@ -1,0 +1,43 @@
+body {
+    background-image: url(images/img2.jpg);
+}
+
+img {
+    height: 300px;
+    width: 600px;
+    margin-left: 450px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 5px solid white;
+}
+
+h1 {
+    color: bisque;
+    margin-left: 650px;
+    margin-top: 120px;
+    font-weight: bolder;
+}
+
+h2 {
+    color: white;
+    margin-left: 450px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+}
+
+#a1 {
+    font-size: small;
+}
+
+#a2 {
+    font-size: small;
+}
+
+a:hover {
+    color: bisque;
+    transition: 0.5;
+}
